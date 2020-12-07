@@ -37,6 +37,7 @@ import {Coolmod} from './coolmod';
 import {Corsair} from './corsair';
 import {Currys} from './currys';
 import {Cyberport} from './cyberport';
+import {Digitec} from './digitec';
 import {Ebuyer} from './ebuyer';
 import {Elcorteingles} from './elcorteingles';
 import {Eprice} from './eprice';
@@ -124,6 +125,7 @@ export const storeList = new Map([
 	[Corsair.name, Corsair],
 	[Currys.name, Currys],
 	[Cyberport.name, Cyberport],
+	[Digitec.name, Digitec],
 	[Ebuyer.name, Ebuyer],
 	[Elcorteingles.name, Elcorteingles],
 	[Eprice.name, Eprice],
